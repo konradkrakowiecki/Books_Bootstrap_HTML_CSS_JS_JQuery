@@ -1,2 +1,8 @@
-# Books_Bootstrap_HTML_CSS_JS_JQuery
-Books Bootstrap HTML CSS JS JQuery
+# Books Bootstrap HTML CSS JS JQuery
+
+### Technologie użyte:
+
+- HTML
+- JS i JQuery
+- CSS
+- Bootstrap CSS
